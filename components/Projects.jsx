@@ -25,19 +25,19 @@ const Projects = () => {
           <ProjectItem
             title="Crypto App"
             backgroundImg={cryptoImg}
-            projectUrl="/property"
+            projectUrl="/crypto"
             tech='React JS'
           />
           <ProjectItem
-            title="Netflix"
+            title="Netflix App"
             backgroundImg={netflixImg}
-            projectUrl="/property"
+            projectUrl="/netflix"
             tech='React JS'
           />
           <ProjectItem
-            title="Twitch"
+            title="Twitch UI"
             backgroundImg={twitchImg}
-            projectUrl="/property"
+            projectUrl="/twitch"
             tech='Next JS'
           />
         </div>
